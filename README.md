@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Beck-end developher
 -------------------
 
-I've been learning programin for about 3 years. I am actively studying Django and beck-end developing at all.
+I've been learning programin for about a year. I am actively studying Django and beck-end developing at all.
 
 * 🌍  I'm based in Lviv
 * 🖥️  See my portfolio at [My portfolio](http://maksim325.github.io/My-portfolio-site/index.html)
